@@ -1,5 +1,7 @@
 # pc-security-check
 
+![Aperçu du projet pc-security-check](docs/banner.png)
+
 Outils PowerShell pour verifier un PC Windows : services, taches planifiees, demarrage, processus, reseau, comptes, configuration de securite, journaux, extensions de navigateur et pilotes. Chaque constat est explique en francais et accompagne d'un lien VirusTotal.
 
 Lecture seule : rien n'est modifie ni supprime.
